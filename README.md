@@ -27,3 +27,4 @@ Python CLI to add questions,list question,search question on the basis of keywor
 
 ![r_12](https://user-images.githubusercontent.com/20211990/33233000-d0c328b6-d235-11e7-87ff-74887223aa7d.png)
 # quizle
+# Quizly
